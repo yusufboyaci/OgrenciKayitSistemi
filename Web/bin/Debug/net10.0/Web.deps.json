@@ -11,7 +11,8 @@
           "DataAccess": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.0",
-          "Service": "1.0.0"
+          "Service": "1.0.0",
+          "Swashbuckle.AspNetCore": "10.1.3"
         },
         "runtime": {
           "Web.dll": {}
@@ -19,7 +20,7 @@
       },
       "Microsoft.AspNetCore.OpenApi/10.0.0": {
         "dependencies": {
-          "Microsoft.OpenApi": "2.0.0"
+          "Microsoft.OpenApi": "2.4.1"
         },
         "runtime": {
           "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
@@ -58,11 +59,11 @@
           }
         }
       },
-      "Microsoft.OpenApi/2.0.0": {
+      "Microsoft.OpenApi/2.4.1": {
         "runtime": {
           "lib/net8.0/Microsoft.OpenApi.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "assemblyVersion": "2.4.1.0",
+            "fileVersion": "2.4.1.0"
           }
         }
       },
@@ -84,6 +85,43 @@
           "lib/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore/10.1.3": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "10.1.3",
+          "Swashbuckle.AspNetCore.SwaggerGen": "10.1.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "10.1.3"
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/10.1.3": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.4.1"
+        },
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "10.1.3.0",
+            "fileVersion": "10.1.3.2229"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/10.1.3": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "10.1.3"
+        },
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "10.1.3.0",
+            "fileVersion": "10.1.3.2229"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/10.1.3": {
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "10.1.3.0",
+            "fileVersion": "10.1.3.2229"
           }
         }
       },
@@ -147,12 +185,12 @@
       "path": "microsoft.entityframeworkcore.relational/10.0.3",
       "hashPath": "microsoft.entityframeworkcore.relational.10.0.3.nupkg.sha512"
     },
-    "Microsoft.OpenApi/2.0.0": {
+    "Microsoft.OpenApi/2.4.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GGYLfzV/G/ct80OZ45JxnWP7NvMX1BCugn/lX7TH5o0lcVaviavsLMTxmFV2AybXWjbi3h6FF1vgZiTK6PXndw==",
-      "path": "microsoft.openapi/2.0.0",
-      "hashPath": "microsoft.openapi.2.0.0.nupkg.sha512"
+      "sha512": "sha512-u7QhXCISMQuab3flasb1hoaiERmUqyWsW7tmQODyILoQ7mJV5IRGM+2KKZYo0QUfC13evEOcHAb6TPWgqEQtrw==",
+      "path": "microsoft.openapi/2.4.1",
+      "hashPath": "microsoft.openapi.2.4.1.nupkg.sha512"
     },
     "Npgsql/10.0.0": {
       "type": "package",
@@ -167,6 +205,34 @@
       "sha512": "sha512-E2+uSWxSB8LdsUVwPaqRWOcGOP92biry2JEwc0KJMdLJF+aZdczeIdEXVwEyv4nSVMQJH0o8tLhyAMiR6VF0lw==",
       "path": "npgsql.entityframeworkcore.postgresql/10.0.0",
       "hashPath": "npgsql.entityframeworkcore.postgresql.10.0.0.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore/10.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dKB0nT1DUHdoC6ZWHHugRrXUJTZps+CewabK2/jmaRrQknwrYvzvow//7vU/8rFWdZ1iD9RQYyPegQmK6nfBBg==",
+      "path": "swashbuckle.aspnetcore/10.1.3",
+      "hashPath": "swashbuckle.aspnetcore.10.1.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/10.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rKvcTzaqQ60jLaBpPLjUmdE9WCnraOMBJ8p6AtBh9eCqnzwmXREWTyJjXMK6W693aGqHr5DiGTG/J+WT0c/PNg==",
+      "path": "swashbuckle.aspnetcore.swagger/10.1.3",
+      "hashPath": "swashbuckle.aspnetcore.swagger.10.1.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/10.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oacu0ikOWzYUwxu0+4507nE/EswJYmgPI1CQNFAO5U9xZMQYjX0wKx9k7udbLIAKN3P6epvnkdgd1Q72xiIZDw==",
+      "path": "swashbuckle.aspnetcore.swaggergen/10.1.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.10.1.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/10.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vraEBz1/68+DTd0utiGvjYt1BqCoSY0RqFk0jJaxvrFwO/alL9VlsYOgNNGnbFH8fJksPfVdNvm1qJ4A+qBSvQ==",
+      "path": "swashbuckle.aspnetcore.swaggerui/10.1.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.10.1.3.nupkg.sha512"
     },
     "DataAccess/1.0.0": {
       "type": "project",

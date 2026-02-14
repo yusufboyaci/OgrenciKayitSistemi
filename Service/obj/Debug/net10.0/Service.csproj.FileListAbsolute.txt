@@ -13,3 +13,4 @@
 /Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/refint/Service.dll
 /Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.pdb
 /Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/ref/Service.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.sourcelink.json

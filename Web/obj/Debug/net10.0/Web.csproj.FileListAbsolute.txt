@@ -40,3 +40,7 @@
 /Users/yusuf/Desktop/OgrenciKayitSistemi/Web/obj/Debug/net10.0/Web.pdb
 /Users/yusuf/Desktop/OgrenciKayitSistemi/Web/obj/Debug/net10.0/Web.genruntimeconfig.cache
 /Users/yusuf/Desktop/OgrenciKayitSistemi/Web/obj/Debug/net10.0/ref/Web.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Web/obj/Debug/net10.0/Web.sourcelink.json
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Web/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Web/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Web/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll

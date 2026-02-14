@@ -12,3 +12,4 @@
 /Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.pdb
 /Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.genruntimeconfig.cache
 /Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/ref/DataAccess.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.sourcelink.json
