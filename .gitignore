@@ -1,0 +1,13 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+## User Secrets (zaten proje dışında saklanır ama önlem amaçlı)
+secrets.json
+
+## Environment
+.env
+*.env
+appsettings.*.local.json
