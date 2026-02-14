@@ -1,0 +1,15 @@
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/bin/Debug/net10.0/Service.deps.json
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/bin/Debug/net10.0/Service.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/bin/Debug/net10.0/Service.pdb
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/bin/Debug/net10.0/DataAccess.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/bin/Debug/net10.0/DataAccess.pdb
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.csproj.AssemblyReference.cache
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.AssemblyInfoInputs.cache
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.AssemblyInfo.cs
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.csproj.CoreCompileInputs.cache
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.csproj.Up2Date
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/refint/Service.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/Service.pdb
+/Users/yusuf/Desktop/OgrenciKayitSistemi/Service/obj/Debug/net10.0/ref/Service.dll

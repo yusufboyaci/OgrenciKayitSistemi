@@ -1,0 +1,14 @@
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/bin/Debug/net10.0/DataAccess.deps.json
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/bin/Debug/net10.0/DataAccess.runtimeconfig.json
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/bin/Debug/net10.0/DataAccess.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/bin/Debug/net10.0/DataAccess.pdb
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.csproj.AssemblyReference.cache
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.AssemblyInfoInputs.cache
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.AssemblyInfo.cs
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/refint/DataAccess.dll
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.pdb
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/DataAccess.genruntimeconfig.cache
+/Users/yusuf/Desktop/OgrenciKayitSistemi/DataAccess/obj/Debug/net10.0/ref/DataAccess.dll
